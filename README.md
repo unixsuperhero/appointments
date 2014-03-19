@@ -72,7 +72,7 @@ standard for Rails 4 and the DSL is almost identical to RSpec's, it wasn't a
 problem making the transition.
 
 Also, the test written were integration/functional tests.  Because the
-underlying business logic was sparce and implementing the rules were best done
+underlying business logic was sparse and implementing the rules were best done
 by utilizing Rails' features, I avoided extracting the rules into separate libs
 and concerns.  For a larger app, I generally follow an 80/20 unit/integration
 test percentage.
