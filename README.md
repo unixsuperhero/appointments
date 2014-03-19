@@ -75,5 +75,5 @@ Also, the test written were integration/functional tests.  Because the
 underlying business logic was sparse and implementing the rules were best done
 by utilizing Rails' features, I avoided extracting the rules into separate libs
 and concerns.  For a larger app, I generally follow an 80/20 unit/integration
-test percentage.
+test distribution.
 
