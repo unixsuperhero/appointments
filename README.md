@@ -1,5 +1,9 @@
 # Joshua Toyota's Care Cloud Assignment
 
+Demo: curl <http://toyota-appointments.herokuapp.com>
+
+Readme: <http://toyota-appointments.herokuapp.com/readme.html>
+
 ## Responses
 
 With the exception of the List action, the API response with JSON in the following format:
